@@ -1,1 +1,1 @@
-{"name":"green-line","display_name":"green-line","owner":"tmmGit","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"577bb39ba78f3cc0123c686c"}
+{"name":"green-line","display_name":"green-line","owner":"tmmGit","auth_method":"Basic","auth_options":{},"paging_method":"Offset/Limit","paging_options":{"offset_url_parameter":"skip","limit_url_parameter":"limit","batch_size":"50"},"tables":[],"id":"577bb39ba78f3cc0123c686c","base_endpoint":"api","data_element":"data"}
